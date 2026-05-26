@@ -6,7 +6,7 @@ I know I am at the very beginning of this journey and still have a lot to learn,
 
 ---
 
-## 🛠️ What I'm Learning & Testing
+## 📚 What I'm Learning & Testing
 
 ### Languages & Databases
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,7 +26,7 @@ I know I am at the very beginning of this journey and still have a lot to learn,
 
 ---
 
-## 📫 Let's Connect!
+## 💬 Let's Connect!
 
 If you want to have a chat about code, share advice, or just connect, feel free to reach out:
 
