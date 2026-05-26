@@ -1,6 +1,6 @@
-# Hi, I'm Jacopo! 👋
+# Hello, I'm Jacopo! 👋
 
-Welcome to my GitHub profile. At 29, I decided to take a turn and dive into the world of software development. I am currently a full-time student in an intensive 1-year program, building my foundations day by day.
+Welcome to my GitHub profile! At 29 I decided to pivot and dive into the world of software development. I am currently a full-time student in an intensive 1-year program, building my fundamentals day by day.
 
 I know I am at the very beginning of this journey and still have a lot to learn, but I am facing this challenge with commitment, curiosity, and a lot of daily practice.
 
